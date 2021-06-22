@@ -61,7 +61,7 @@ _Primero anotamos todos los datos que tenemos en el circuito armado y las transf
 
 ![image](https://user-images.githubusercontent.com/85728185/122882292-a4e79300-d301-11eb-828b-6b8c1642c0cf.png)
 
-![image](https://user-images.githubusercontent.com/85728185/122882406-c3e62500-d301-11eb-9cf1-d344784b274e.png)
+![image](https://user-images.githubusercontent.com/85728185/122883843-31468580-d303-11eb-94d9-02e3f6e7db34.png)
 
 ## 4. RESULTADOS
 
