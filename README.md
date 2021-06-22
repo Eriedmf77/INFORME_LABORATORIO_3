@@ -61,13 +61,15 @@ _Primero anotamos todos los datos que tenemos en el circuito armado y las transf
 
 ![image](https://user-images.githubusercontent.com/85728185/122882292-a4e79300-d301-11eb-828b-6b8c1642c0cf.png)
 
-![image](https://user-images.githubusercontent.com/85728185/122883843-31468580-d303-11eb-94d9-02e3f6e7db34.png)
+![image](https://user-images.githubusercontent.com/85728185/122895028-5b9d4080-d30d-11eb-8aab-6993337a8662.png)
 
-![image](https://user-images.githubusercontent.com/85728185/122886532-aca93680-d305-11eb-9ad4-24139183cc13.png)
+![image](https://user-images.githubusercontent.com/85728185/122895106-69eb5c80-d30d-11eb-857b-dfe874f54462.png)
 
-![image](https://user-images.githubusercontent.com/85728185/122885751-fa716f00-d304-11eb-8e92-811caa7ea720.png)
+![image](https://user-images.githubusercontent.com/85728185/122895163-766fb500-d30d-11eb-97c0-ebbffa917f93.png)
 
-![image](https://user-images.githubusercontent.com/85728185/122887108-30fbb980-d306-11eb-8a4b-3cde1ff85d3a.png)
+![image](https://user-images.githubusercontent.com/85728185/122895201-812a4a00-d30d-11eb-8381-d2b51f8d3f64.png)
+
+![image](https://user-images.githubusercontent.com/85728185/122895264-92735680-d30d-11eb-9e23-12efcf608a1a.png)
 
 ## 4. RESULTADOS
 
