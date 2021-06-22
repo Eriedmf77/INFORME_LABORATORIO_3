@@ -21,18 +21,21 @@
 
 ***3.1 Material y equipo requerido***
 
-***3.2 Procedimineto***
+**3.2 Procedimineto**
 
-_3.5.1 Implemente el circuito que se presenta en la figura 3.1._
+_3.2.1 Implemente el circuito que se presenta en la figura 3.1._
 
 ![image](https://user-images.githubusercontent.com/85259801/122850997-d21d4c80-d2d3-11eb-92f0-4d3797ade6fc.png)
 
 
-_3.2.2 Mida cada una de las corrientes de malla y anote los resultados en la tabla_
+_3.2.2 Mida cada una de los voltajesde nodo y anote los resultados en la tabla 3.1_
 
-_3.2.3 Simule en el software Multisim, Proteus o cualquier otro simulador el circuito, obteniendo los valores de las corrientes de malla. Anote los resultados en la tabla._
+_3.2.3 Simule en el software Multisim, Proteus o cualquier otro simulador el circuito, obteniendo los valores de la figura 3.1, obteniendo los valores de voltajes de nodo. Anote los valores en la tabla 3.1_
 
-_3.2.4 Compare los valores de la tabla  y realice sus conclusiones__
+_3.2.4 Compare los valores de la tabla 3.1 y realice sus conclusiones__
+
+_Tabla 3.1 resultados obtenidos para el circuito de la figura 3.1_
+
 
 ## PLANTEAMIENTO DE ECUACIONES
 
