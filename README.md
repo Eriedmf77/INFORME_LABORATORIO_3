@@ -67,6 +67,8 @@ _Primero anotamos todos los datos que tenemos en el circuito armado y las transf
 
 ![image](https://user-images.githubusercontent.com/85728185/122885751-fa716f00-d304-11eb-8e92-811caa7ea720.png)
 
+![image](https://user-images.githubusercontent.com/85728185/122887108-30fbb980-d306-11eb-8a4b-3cde1ff85d3a.png)
+
 ## 4. RESULTADOS
 
 ***Calculo  de error**
