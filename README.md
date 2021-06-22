@@ -63,6 +63,7 @@ _Tabla 3.1 resultados obtenidos para el circuito de la figura 3.1_
 
 ## 6. CONCLUSIONES
 
+_°Por medio del análisis de nodos resolvemos el circuito planteado usando voltajes de nodo como varibales a encontrar resultando un metodo mas sencillo de realizar._
 
 ## 7. BIBLIOGRAFÍA 
 
