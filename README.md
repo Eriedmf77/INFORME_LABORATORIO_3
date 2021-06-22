@@ -21,6 +21,8 @@
 
 ***3.1 Material y equipo requerido***
 
+![image](https://user-images.githubusercontent.com/85259801/122858101-4f9a8a00-d2df-11eb-9e28-a4af3ed26df6.png)
+
 **3.2 PROCEDIMIENTO**
 
 _3.2.1 Implemente el circuito que se presenta en la figura 3.1._
