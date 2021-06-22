@@ -92,6 +92,8 @@ _Aplicamos el error porcentual para cada voltaje:_
 
 ## 5. VIDEO
 
+https://youtu.be/ga9HN37wgSQ
+
 ## 6. CONCLUSIONES
 
 _°Por medio del análisis de nodos resolvemos el circuito planteado usando voltajes de nodo como varibales a encontrar resultando un metodo mas sencillo de realizar._
