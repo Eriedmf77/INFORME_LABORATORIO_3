@@ -7,17 +7,17 @@
 
 ### Integrantes: Erick Maisincho, Danilo Taco, David Vasquez
 
-### 1.Objetivos
+## 1. Objetivos
 
 ***Objetivo general de la practica***
 
 
 ***Objetivos especificos***
 
-### 2.Marco Teorico 
+## 2. Marco Teorico 
 
 
-### 3.Explicacion
+## 3. Explicacion
 
 ***3.1 Material y equipo requerido***
 
@@ -37,13 +37,13 @@ _3.2.4 Compare los valores de la tabla  y realice sus conclusiones__
 ## PLANTEAMIENTO DE ECUACIONES
 
 
-### 4.Resultados
+## 4.Resultados
 
 ***Calculo  de error**
 
-### Video
+## Video
 
-### Conclusiones
+## Conclusiones
 
 
-### Bibliografia 
+## Bibliografia 
