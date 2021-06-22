@@ -19,7 +19,7 @@ _. Determinar los voltajes que pasa por cada nodo de acuerdo al circuito simulad
 
 _. Evaluar las leyes de Kirchhoff para los nodos del circuito._
 
-_- Verificar y comprobar los valores calculados mediante la fórmula de cálculo y error._
+_. Verificar y comprobar los valores calculados mediante la fórmula de cálculo y error._
 
 ## 2. MARCO TEÓRICO 
 
