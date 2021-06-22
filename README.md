@@ -64,7 +64,7 @@ _Calculamos el error con la siguiente formula:_
 
 ![image](https://user-images.githubusercontent.com/85728185/122873253-27b72080-d2f7-11eb-9c4e-1d8bcbb37edd.png)
 
-_Aplicamos en error porcentual para cada voltaje:_
+_Aplicamos el error porcentual para cada voltaje:_
 
 ![image](https://user-images.githubusercontent.com/85728185/122873443-6220bd80-d2f7-11eb-9ae4-8c29b588d0f2.png)
 
