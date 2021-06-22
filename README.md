@@ -1,11 +1,11 @@
-PRÁCTICA N°3
 
 # ANÁLISIS DE NODOS
-
+#
 ### Fundamento de circuitos electricos
 ### Ingeniero  Darwin Omar Alulema Flores
 
 ### Integrantes: Erick Maisincho, Danilo Taco, David Vasquez
+#
 
 ## 1. OBJETIVOS
 
