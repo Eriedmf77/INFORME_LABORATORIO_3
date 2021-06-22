@@ -43,9 +43,9 @@ _Tabla 3.1 resultados obtenidos para el circuito de la figura 3.1_
 
 ***Calculo  de error**
 
-## VIDEO
+## 5. VIDEO
 
-## CONCLUSIONES
+## 6. CONCLUSIONES
 
 
-## BIBLIOGRAFÍA 
+## 7. BIBLIOGRAFÍA 
