@@ -52,6 +52,7 @@ _3.2.4 Comparar los valores de la tabla 3.1 y realizar sus conclusiones__
 
 _Tabla 3.1 resultados obtenidos para el circuito de la figura 3.1_
 
+![image](https://user-images.githubusercontent.com/85728185/122897837-fa2aa100-d30f-11eb-8e7e-d143d1856741.png)
 
 ### PLANTEAMIENTO DE ECUACIONES
 
@@ -85,7 +86,7 @@ _Calculamos el error con la siguiente formula:_
 
 _Aplicamos el error porcentual para cada voltaje:_
 
-![image](https://user-images.githubusercontent.com/85728185/122873443-6220bd80-d2f7-11eb-9ae4-8c29b588d0f2.png)
+![image](https://user-images.githubusercontent.com/85728185/122897302-7c669580-d30f-11eb-8e4e-1c18cb6783b1.png)
 
 ## 5. VIDEO
 
