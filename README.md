@@ -59,9 +59,7 @@ _Primero anotamos todos los datos que tenemos en el circuito armado y las transf
 
 ![image](https://user-images.githubusercontent.com/85728185/122876055-a8c3e700-d2fa-11eb-855d-37ce80134573.png)
 
-**NODO A**
-
-_Único valor 12  v_
+![image](https://user-images.githubusercontent.com/85728185/122880952-36560580-d300-11eb-9337-e04683b596c1.png)
 
 ![image](https://user-images.githubusercontent.com/85728185/122880721-ee36e300-d2ff-11eb-902b-0554c5e3ea7a.png)
 
