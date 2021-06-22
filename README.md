@@ -14,10 +14,10 @@
 
 ***Objetivos especificos***
 
-## 2. Marco Teorico 
+## 2. MARCO TEÓRICO 
 
 
-## 3. Explicacion
+## 3. EXPLICACIÓN
 
 ***3.1 Material y equipo requerido***
 
@@ -37,13 +37,13 @@ _3.2.4 Compare los valores de la tabla  y realice sus conclusiones__
 ## PLANTEAMIENTO DE ECUACIONES
 
 
-## 4.Resultados
+## 4. RESULTADOS
 
 ***Calculo  de error**
 
-## Video
+## VIDEO
 
-## Conclusiones
+## CONCLUSIONES
 
 
-## Bibliografia 
+## BIBLIOGRAFÍA 
