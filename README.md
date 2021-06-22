@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/85259801/122858869-a785c080-d2e0-11eb-8a85-bfb09f2cc2fc.png)
+PRÁCTICA N°3
 
 # ANÁLISIS DE NODOS
 
