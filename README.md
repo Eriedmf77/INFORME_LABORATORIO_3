@@ -59,7 +59,7 @@ _Tabla 3.1 resultados obtenidos para el circuito de la figura 3.1_
 
 ***Calculo  de error**
 
-_Calculamos el error con la siguinete formula:_
+_Calculamos el error con la siguiente formula:_
 
 ![image](https://user-images.githubusercontent.com/85728185/122873253-27b72080-d2f7-11eb-9c4e-1d8bcbb37edd.png)
 
