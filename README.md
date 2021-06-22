@@ -65,3 +65,5 @@ _Tabla 3.1 resultados obtenidos para el circuito de la figura 3.1_
 
 
 ## 7. BIBLIOGRAFÍA 
+
+_Figueroa, F. (2020, 18 abril). ANÁLISIS DE NODOS. SENSORICX. https://sensoricx.com/circuitos-electricos-dc/analisis-de-circuitos-empleando-nodos/._
