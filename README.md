@@ -21,7 +21,7 @@
 
 ***3.1 Material y equipo requerido***
 
-**3.2 Procedimineto**
+**3.2 PROCEDIMIENTO**
 
 _3.2.1 Implemente el circuito que se presenta en la figura 3.1._
 
@@ -36,7 +36,7 @@ _3.2.4 Compare los valores de la tabla 3.1 y realice sus conclusiones__
 _Tabla 3.1 resultados obtenidos para el circuito de la figura 3.1_
 
 
-## PLANTEAMIENTO DE ECUACIONES
+### PLANTEAMIENTO DE ECUACIONES
 
 
 ## 4. RESULTADOS
