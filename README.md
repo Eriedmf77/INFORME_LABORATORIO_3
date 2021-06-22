@@ -7,7 +7,7 @@
 
 ### Integrantes: Erick Maisincho, Danilo Taco, David Vasquez
 
-## 1. Objetivos
+## 1. OBJETIVOS
 
 ***Objetivo general de la practica***
 
