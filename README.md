@@ -11,8 +11,15 @@
 
 ***Objetivo general de la practica***
 
+_Analizar y comprobar experimentalmente el método de análisis de nodos para el circuito dado._
 
 ***Objetivos especificos***
+
+_. Determinar los voltajes que pasa por cada nodo de acuerdo al circuito simulado._
+
+_. Evaluar las leyes de Kirchhoff para los nodos del circuito._
+
+_- Verificar y comprobar los valores calculados mediante la fórmula de cálculo y error._
 
 ## 2. MARCO TEÓRICO 
 
