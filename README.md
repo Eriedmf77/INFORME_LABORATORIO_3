@@ -33,8 +33,6 @@ _3.2.2 Mida cada una de los voltajesde nodo y anote los resultados en la tabla 3
 
 ![image](https://user-images.githubusercontent.com/85728185/122853727-4a860c80-d2d8-11eb-8f97-574ead934788.png)
 
-![image](https://user-images.githubusercontent.com/85259801/122858611-2af2e200-d2e0-11eb-8421-182ba1e7a61b.png)
-
 ![image](https://user-images.githubusercontent.com/85728185/122854213-fc253d80-d2d8-11eb-8fef-07e4b67dfbb9.png)
 
 _3.2.3 Simule en el software Multisim, Proteus o cualquier otro simulador del circuito, obteniendo los valores de la figura 3.1, obteniendo los valores de voltajes de nodo. Anote los valores en la tabla 3.1_
