@@ -38,7 +38,7 @@ _3.2.1 Implemente el circuito que se presenta en la figura 3.1._
 
 ![image](https://user-images.githubusercontent.com/85259801/122852805-d9922500-d2d6-11eb-8c91-07944287f51d.png)
 
-![image](https://user-images.githubusercontent.com/85259801/122968080-c6bc3680-d350-11eb-939d-3dc02bce0d4c.png)
+![image](https://user-images.githubusercontent.com/85259801/122968226-ece1d680-d350-11eb-8e29-f2083cecba5e.png)
 
 
 _3.2.2 Mida cada una de los voltajesde nodo y anote los resultados en la tabla 3.1_
