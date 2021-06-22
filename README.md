@@ -57,7 +57,8 @@ _Tabla 3.1 resultados obtenidos para el circuito de la figura 3.1_
 
 _Primero anotamos todos los datos que tenemos en el circuito armado y las transformamos en una sola unidad de medición:_
 
-![image](https://user-images.githubusercontent.com/85728185/122875709-3b17bb00-d2fa-11eb-89e7-a9d814c1a910.png)
+![image](https://user-images.githubusercontent.com/85728185/122876055-a8c3e700-d2fa-11eb-855d-37ce80134573.png)
+
 
 ## 4. RESULTADOS
 
