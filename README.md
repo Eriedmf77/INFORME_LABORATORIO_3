@@ -50,9 +50,11 @@ _3.2.3 Simule en el software Multisim, Proteus o cualquier otro simulador del ci
 
 _3.2.4 Comparar los valores de la tabla 3.1 y realizar sus conclusiones__
 
+![image](https://user-images.githubusercontent.com/85728185/122897975-1e867d80-d310-11eb-8bbe-62c9e6e08df8.png)
+
 _Tabla 3.1 resultados obtenidos para el circuito de la figura 3.1_
 
-![image](https://user-images.githubusercontent.com/85728185/122897837-fa2aa100-d30f-11eb-8e7e-d143d1856741.png)
+![image](https://user-images.githubusercontent.com/85728185/122897966-1b8b8d00-d310-11eb-8930-235845c758a0.png)
 
 ### PLANTEAMIENTO DE ECUACIONES
 
