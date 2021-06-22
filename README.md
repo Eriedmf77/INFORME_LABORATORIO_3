@@ -23,8 +23,7 @@ _. Verificar y comprobar los valores calculados mediante la fórmula de cálculo
 
 ## 2. MARCO TEÓRICO 
 
-![image](https://user-images.githubusercontent.com/84418933/122861006-537cdb00-d2e4-11eb-8ef6-36af7eec55a2.png)
-
+![image](https://user-images.githubusercontent.com/84418933/122861107-7e672f00-d2e4-11eb-9ab4-24b4d676b30f.png)
 
 ## 3. EXPLICACIÓN
 
