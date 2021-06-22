@@ -59,6 +59,14 @@ _Tabla 3.1 resultados obtenidos para el circuito de la figura 3.1_
 
 ***Calculo  de error**
 
+_Calculamos el error con la siguinete formula:_
+
+![image](https://user-images.githubusercontent.com/85728185/122873253-27b72080-d2f7-11eb-9c4e-1d8bcbb37edd.png)
+
+_Aplicamos en error porcentual para cada voltaje:_
+
+![image](https://user-images.githubusercontent.com/85728185/122873443-6220bd80-d2f7-11eb-9ae4-8c29b588d0f2.png)
+
 ## 5. VIDEO
 
 ## 6. CONCLUSIONES
