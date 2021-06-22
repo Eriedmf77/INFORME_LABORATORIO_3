@@ -100,7 +100,9 @@ https://youtu.be/ga9HN37wgSQ
 ## 6. CONCLUSIONES
 
 _. Por medio del análisis de nodos resolvemos el circuito planteado usando voltajes de nodo como varibales a encontrar resultando un metodo mas sencillo de realizar._
+
 _. De acuerdo al análisis de nodos se uso tambien la ley de Kirchhoff  para el cual se utilizó para cada nodo del circuito para asi obtener el voltaje de la misma._
+
 _. Como pudimos ver el análisis de error que se obtuvieron coinciden con los del circuito simulado con un porcentaje casi ninguno y menor de error._
 
 ## 7. BIBLIOGRAFÍA 
