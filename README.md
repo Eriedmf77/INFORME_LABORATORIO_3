@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/85728185/121998054-e2cc4080-cd70-11eb-8c9c-eebefc1e4de7.png)
+![image](https://user-images.githubusercontent.com/85259801/122858869-a785c080-d2e0-11eb-8a85-bfb09f2cc2fc.png)
 
 # ANÁLISIS DE NODOS
 
